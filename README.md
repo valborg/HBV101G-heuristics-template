@@ -16,13 +16,12 @@ Stofnið reikning á github.com og setjið upp
 - Fyllið út hópanúmer og nöfn allra í hópnum.
 - Skráið 5–7 tasks (verkefni) sem hægt er að leysa á vefsíðunni og númerið þau.
 - Til að vista breytingar gerið **Commit changes**
-- Í hverju issue (sjá hér að neðan), **sláið inn task-númer** í reitnum „Tengt task (# úr TASKS.md)“.
-  
+- Í hverju máli (sjá hér að neðan), **sláið inn verk-númer** í reitnum „Tengt verk (# úr TASKS.md)“.
 
 ### Skref 4. Labels
-- Í þessu skrefi er **forrit (workflow)" keyrt sem býr til gagnlega labels sem eru notuð til að merkja nytsemisvandamál:  `usability`, `heuristic`, `severity:1` … `severity:5` og einn label fyrir hvern heuristics flokk.
-- „Gætið þess að **Workflow permissions séu á Read and write** í **Settings / Actions / General**, munið að vista (save) settings -  annars virkar Sync labels ekki“
-- Veljið Actions (efst) og Veldu **“Sync labels”** (vinstra megin) og gerðu svo **Run workflow** til að búa þá til - athugið getur tekið smá tíma .
+- Farið í **Settings / Actions / General** og veljið að workflow séu með skrif réttindi - **Workflow permissions séu á Read and write** munið að vista (save) settings -  annars virkar Sync labels ekki.
+- Veljið **Actions** og **“Sync labels”** (vinstra megin), svo **Run workflow** til að búa til merkingarnar sem labels.yml stýrir - athugið getur tekið smá tíma.
+- Í þessu skrefi er forrit keyrt sem býr til gagnlegar merkingar sem eru notuð til að merkja nytsemisvandamál:  `usability`, `heuristic`, `severity:1` … `severity:5` og eitt merki fyrir hvern heuristics flokk.
 
 ### Skref 5. – Búa til nýtt Project
 Við ætlum að nota **GitHub Projects (Board view)** til að flokka öll issues eftir Nielsen heuristics.
@@ -85,7 +84,7 @@ Nú sést á borðinu:
 
 
 ### Skil
--  Gætið þess að repository ykkar sé **public** eða gerið kennara (notendanafn hvannberg á github) að collaborator með því að fara í settings 
+-  Gætið þess að **repository** ykkar sé **public** eða gerið kennara (notendanafn valborg á github) að **collaborator** með því að fara í **settings**
 -  Skilið PDF skjali af töflu af project-i og TASKS.md EÐA
 -  Vísið í repo + Project á Gradescope
 
@@ -100,5 +99,4 @@ Nú sést á borðinu:
 
 
 ---
-
 © HBV101G
