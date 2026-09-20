@@ -66,8 +66,9 @@ að fara í Edit Details á dálkinn (...)
 Í Settings á project-inu getið þið líka stillt aðganginn (Manage access) til að leyfa félaga ykkar að hafa aðgang að project-inu 
 
 ### Skref 7. - Nemendur finna vandamál á valinni vefsíðu
+1. Farið í **settings** og undir **Features** og hakið við **Issues**
 3. **Hver nemandi** finnur 5–10 vandamál á valinni vefsíðu og **býr til mál** (New issue) með „Heuristic Evaluation Issue“ formi fyrir hvert vandamál.
-4. **Merkið hvert issue** með viðeigandi heuristic (dropdown í forminu) og **alvarleika** (severity).
+4. **Merkið hvert issue** með viðeigandi heuristic (fellival í forminu) og **alvarleika** (severity).
 5. **Dragið issues á Project board** í dálk fyrir réttan flokk. (sjá næsta skref) 
 
    
