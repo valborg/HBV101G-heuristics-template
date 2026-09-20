@@ -1,7 +1,7 @@
 # HÓPUPPLÝSINGAR & TASK-LISTI
 
-**Hópanúmer:** _[t.d. H12]_  
-**Nöfn nemenda:** _[Nafn A]_, _[Nafn B]_, _[Nafn C]_
+**Hópanúmer:** _kennari_  
+**Nöfn nemenda:** _a_, _b_
 
 ## Tasks fyrir heuristics evaluation
 Skráið 5–7 notendaverkefni (verk) sem þið notið við rýnina. Númerið þau og notið **verk-númer** þegar þið skráið mál.
